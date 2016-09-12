@@ -104,6 +104,9 @@ body{
   text-align: center;
     color: #eee;
 }
+header{
+  height: 171px;
+}
 header, footer{
 width: 100%;
 font: normal, 1.5em, bold, cursive;
@@ -162,9 +165,9 @@ padding-top: 5%;
 /* ##################################################################### */
 /* Small devices (tablets, 544px ) */
 
-   @media (min-width: 544px) {
+   @media (min-width: 396px) {
      .wrap{
-       min-height:(100vh);
+       min-height:calc(100vh- 153px);
            }
 
 }
