@@ -161,6 +161,9 @@ padding-top: 5%;
  height:85%;
  margin: 5% auto;
 }
+figure{
+  margin-top: 50px;
+}
 
 /* ##################################################################### */
 /* Small devices (tablets, 544px ) */
