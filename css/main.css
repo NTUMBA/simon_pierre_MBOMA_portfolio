@@ -124,11 +124,11 @@ h5,a,.colortext{
 }
 
 .wrapper{
-  margin: 0 auto;
-  width: 75%;
+  /*margin: 0 auto;*/
+  width: 80%;
   height: 100%;
   padding: 5px 2px 5px 45px;
-
+  padding: 0 -25px;
 }
 ul {
   display: flex;
@@ -145,11 +145,11 @@ ul li{
 ==============================================================================*/
 
 section{
+margin: 0 auto;
 background-image: radial-gradient(circle, #323138,#243318);
 max-height: 80%;
-width: 90%;
+width: 80%;
 height: 1000px;
-padding-top: 5%;
 }
 /*carousel======================================================================*/
 .carousel-inner{
