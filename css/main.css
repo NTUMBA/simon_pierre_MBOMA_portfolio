@@ -116,6 +116,9 @@ padding-bottom: 8px;
 header,footer,.decofont{
   background-color:#2D3146;
 }
+ul{
+  color: #f2B90F;
+}
 h4{
   font-weight: bold;
 }
