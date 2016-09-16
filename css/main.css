@@ -116,7 +116,7 @@ padding-bottom: 8px;
 header,footer,.decofont{
   background-color:#2D3146;
 }
-ul{
+ul,.header_top,.portfolio{
   color: #f2B90F;
 }
 h4{
@@ -169,6 +169,9 @@ height: 1000px;
 }
 figure{
   margin-top: 50px;
+}
+section{
+  margin: 0 50px 0 -5px;
 }
 
 /* ##################################################################### */
